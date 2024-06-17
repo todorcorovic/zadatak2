@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="test.KupujemProdajemTests" time="41.095" tests="2" errors="1" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="test.KupujemProdajemTests" time="43.414" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-22\bin"/>
-    <property name="sun.java.command" value="C:\Users\TOLE MAG\AppData\Local\Temp\surefire15624922445203937176\surefirebooter5903821716154652929.jar C:\Users\TOLE MAG\AppData\Local\Temp\surefire15624922445203937176 2024-06-17T02-35-10_652-jvmRun1 surefire182015030434037392tmp surefire_012904496929022736802tmp"/>
+    <property name="sun.java.command" value="C:\Users\TOLE MAG\AppData\Local\Temp\surefire276145967884974003\surefirebooter14294628822266968723.jar C:\Users\TOLE MAG\AppData\Local\Temp\surefire276145967884974003 2024-06-17T04-00-18_945-jvmRun1 surefire11863947469600817585tmp surefire_08935606655258215025tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="c:\Users\TOLE MAG\Desktop\zadatak2\target\test-classes;c:\Users\TOLE MAG\Desktop\zadatak2\target\classes;C:\Users\TOLE MAG\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\TOLE MAG\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\TOLE MAG\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\TOLE MAG\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\TOLE MAG\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\TOLE MAG\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\TOLE MAG\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\TOLE MAG\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\TOLE MAG\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\TOLE MAG\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\TOLE MAG\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\TOLE MAG\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\TOLE MAG\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\TOLE MAG\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\TOLE MAG\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\TOLE MAG\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\TOLE MAG\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\TOLE MAG\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\TOLE MAG\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\TOLE MAG\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\TOLE MAG\.m2\repository\io\github\bonigarcia\webdrivermanager\5.0.3\webdrivermanager-5.0.3.jar;C:\Users\TOLE MAG\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar;C:\Users\TOLE MAG\.m2\repository\com\google\code\gson\gson\2.8.8\gson-2.8.8.jar;C:\Users\TOLE MAG\.m2\repository\org\jsoup\jsoup\1.14.2\jsoup-1.14.2.jar;C:\Users\TOLE MAG\.m2\repository\com\github\docker-java\docker-java\3.2.12\docker-java-3.2.12.jar;C:\Users\TOLE MAG\.m2\repository\com\github\docker-java\docker-java-core\3.2.12\docker-java-core-3.2.12.jar;C:\Users\TOLE MAG\.m2\repository\com\github\docker-java\docker-java-api\3.2.12\docker-java-api-3.2.12.jar;C:\Users\TOLE MAG\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\TOLE MAG\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\TOLE MAG\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\TOLE MAG\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\TOLE MAG\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\TOLE MAG\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.64\bcpkix-jdk15on-1.64.jar;C:\Users\TOLE MAG\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.64\bcprov-jdk15on-1.64.jar;C:\Users\TOLE MAG\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\TOLE MAG\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.2.12\docker-java-transport-httpclient5-3.2.12.jar;C:\Users\TOLE MAG\.m2\repository\com\github\docker-java\docker-java-transport\3.2.12\docker-java-transport-3.2.12.jar;C:\Users\TOLE MAG\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;C:\Users\TOLE MAG\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;C:\Users\TOLE MAG\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\TOLE MAG\.m2\repository\net\java\dev\jna\jna\5.8.0\jna-5.8.0.jar;C:\Users\TOLE MAG\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\TOLE MAG\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\TOLE MAG\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\TOLE MAG\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\TOLE MAG\AppData\Local\Temp\surefire15624922445203937176\surefirebooter5903821716154652929.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\TOLE MAG\AppData\Local\Temp\surefire276145967884974003\surefirebooter14294628822266968723.jar"/>
     <property name="user.script" value=""/>
     <property name="user.script.format" value="Cyrl"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -61,65 +61,57 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="scenario1" classname="test.KupujemProdajemTests" time="20.736">
-    <system-out><![CDATA[Screenshot saved: screenshot_20240617-023532.png
+  <testcase name="scenario1" classname="test.KupujemProdajemTests" time="21.884">
+    <system-out><![CDATA[Screenshot saved: screenshot_20240617-040041.png
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-1718584512875	geckodriver	INFO	Listening on 127.0.0.1:22802
-1718584513030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TOLEMA~1\\AppData\\Local\\Temp\\rust_mozprofileQQ63ot"
+1718589621315	geckodriver	INFO	Listening on 127.0.0.1:56423
+1718589621500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TOLEMA~1\\AppData\\Local\\Temp\\rust_mozprofileGjCVs8"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1718584513376	Marionette	INFO	Marionette enabled
+1718589621868	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1718584513715	Marionette	INFO	Listening on port 53390
-Read port: 53390
-1718584513882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-јун 17, 2024 2:35:14 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+1718589622235	Marionette	INFO	Listening on port 56310
+Read port: 56310
+1718589622398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+јун 17, 2024 4:00:23 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 656 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 1767 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript error: https://s0.2mdn.net/sadbundle/448878091107985468/index.html?ev=01_251, line 302: TypeError: studio.Enabler is undefined
-JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 3945 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/17724110666193059267/index.html?ev=01_251, line 302: TypeError: studio.Enabler is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 5625 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 1148 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 1832 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 3882 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.kupujemprodajem.com/_next/static/chunks/3808.1e8c72ff6abb200d.js, line 1: Error: Error: ResizeObserver loop completed with undelivered notifications. - : 0 - https://www.kupujemprodajem.com/_next/static/chunks/3808.1e8c72ff6abb200d.js: 1
+JavaScript error: https://www.kupujemprodajem.com/_next/static/chunks/3808.1e8c72ff6abb200d.js, line 1: Error: ResizeObserver loop completed with undelivered notifications. - : 0
+JavaScript error: https://www.kupujemprodajem.com/_next/static/chunks/3808.1e8c72ff6abb200d.js, line 1: Error: Error: ResizeObserver loop completed with undelivered notifications. - : 0 - https://www.kupujemprodajem.com/_next/static/chunks/3808.1e8c72ff6abb200d.js: 1
+JavaScript error: https://www.kupujemprodajem.com/_next/static/chunks/3808.1e8c72ff6abb200d.js, line 1: Error: ResizeObserver loop completed with undelivered notifications. - : 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 6374 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 6529 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 ]]></system-err>
   </testcase>
-  <testcase name="scenario2" classname="test.KupujemProdajemTests" time="20.359">
-    <error message="Expected condition failed: waiting for element to be clickable: By.xpath: //button[@aria-label=&apos;Dodaj u adresar&apos;] (tried for 10 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException"><![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //button[@aria-label='Dodaj u adresar'] (tried for 10 second(s) with 500 milliseconds interval)
-	at test.KupujemProdajemTests.scenario2(KupujemProdajemTests.java:142)
-Caused by: org.openqa.selenium.NoSuchElementException: 
-Unable to locate element: //button[@aria-label='Dodaj u adresar']
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'КОМПЈУТОР', ip: '192.168.100.3', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 127.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240606181944, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25992, moz:profile: C:\Users\TOLEMA~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
-Session ID: b5b61093-cc47-4c75-b17a-131a75cef5e5
-*** Element info: {Using=xpath, value=//button[@aria-label='Dodaj u adresar']}
-	at test.KupujemProdajemTests.scenario2(KupujemProdajemTests.java:142)
-]]></error>
-    <system-out><![CDATA[Screenshot saved: screenshot_20240617-023552.png
+  <testcase name="scenario2" classname="test.KupujemProdajemTests" time="21.486">
+    <system-out><![CDATA[Screenshot saved: screenshot_20240617-040103.png
 ]]></system-out>
-    <system-err><![CDATA[1718584532609	geckodriver	INFO	Listening on 127.0.0.1:51463
-1718584532624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TOLEMA~1\\AppData\\Local\\Temp\\rust_mozprofileRV7Uex"
+    <system-err><![CDATA[1718589642378	geckodriver	INFO	Listening on 127.0.0.1:42344
+1718589642392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TOLEMA~1\\AppData\\Local\\Temp\\rust_mozprofileZGnCIF"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1718584532902	Marionette	INFO	Marionette enabled
+1718589642683	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1718584533037	Marionette	INFO	Listening on port 53506
-Read port: 53506
-1718584533207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-јун 17, 2024 2:35:34 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+1718589642804	Marionette	INFO	Listening on port 56452
+Read port: 56452
+1718589642993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+јун 17, 2024 4:00:44 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 769 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 4385 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 4307 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 2610 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 7434 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 7431 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718589652028	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-1718584546042	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 ]]></system-err>
   </testcase>
 </testsuite>
