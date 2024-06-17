@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: test.KupujemProdajemTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 41.095 s <<< FAILURE! - in test.KupujemProdajemTests
+test.KupujemProdajemTests.scenario2  Time elapsed: 20.359 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //button[@aria-label='Dodaj u adresar'] (tried for 10 second(s) with 500 milliseconds interval)
+	at test.KupujemProdajemTests.scenario2(KupujemProdajemTests.java:142)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: //button[@aria-label='Dodaj u adresar']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'КОМПЈУТОР', ip: '192.168.100.3', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 127.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240606181944, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25992, moz:profile: C:\Users\TOLEMA~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: b5b61093-cc47-4c75-b17a-131a75cef5e5
+*** Element info: {Using=xpath, value=//button[@aria-label='Dodaj u adresar']}
+	at test.KupujemProdajemTests.scenario2(KupujemProdajemTests.java:142)
+
